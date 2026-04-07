@@ -23,7 +23,7 @@ fun MyCard() {
         elevation = CardDefaults.cardElevation(8.dp)
     ) {
         Text(
-            text = "Mi Card - Karla",
+            text = "Mi Card de Karla y Pvolvxd",
             modifier = Modifier.padding(24.dp),
             color = Color.White,
             fontSize = 20.sp,
